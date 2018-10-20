@@ -2,7 +2,7 @@
 A converter for AMS songs to SMP songs
 ---
 ## How to use
-1. Extract the .zip in the releases page  
+1. Extract the .zip in the [releases page](https://github.com/SeymourSchlong/AMSconverter/releases)  
 2. Put the AMS files (.mss) you want to convert into the "input" folder  
 3. Open "converter.exe"  
 4. Once it closes (which should be very fast), your files will be in the "output"  
