@@ -1,0 +1,25 @@
+{
+  "name": "ams-smp-converter",
+  "version": "1.0.0",
+  "description": "A program that converts AMS songs to a SMP compatible format.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start",
+    "build": "pkg -o ./converter.exe ./index.js"
+  },
+  "bin": "$DIR/node_modules/npm/cli.js",
+  "author": "seymour schlong",
+  "dependencies": {
+    "xml-js": "^1.6.8",
+    "xml2js": "^0.4.19"
+  },
+  "pkg": {
+    "scripts": "index.js",
+    "assets": [
+      "*.json",
+      "input/*.mss",
+      "temp/*.json",
+      "output/*.txt"
+    ]
+  }
+}
