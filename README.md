@@ -1,6 +1,5 @@
 # AMSconverter
 A converter for AMS songs to SMP songs
-# DOES NOT WORK WITH MOST SONGS, IF ANY. THIS PROJECT IS ON AN INDEFINITE HIATUS.
 ---
 ## How to use
 1. Extract the .zip in the [releases page](https://github.com/SeymourSchlong/AMSconverter/releases)  
